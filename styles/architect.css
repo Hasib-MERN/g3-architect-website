@@ -1,0 +1,17 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 10px;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 10px;
+    
+}
+ul{
+    display: flex;
+}
+h2{
+    text-align: center;
+}
